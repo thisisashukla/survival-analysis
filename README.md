@@ -27,10 +27,10 @@ Working knowledge of Python and Jupyter notebooks is essential for this course a
 
 ## Tutorial Outline
 
-- [0. Motivation](0_motivation)
-- [1. Data Censorship](1_data_censorship)
-- [2. Survival  with Constant Hazard Function](2_survival_with_constant_hazard_function)
-- [3. Parametric Models Weibull Curve Estimation](3_parametric_models_weibull_curve_estimation.ipynb)
+- [0. Motivation](0_motivation.ipynb)
+- [1. Data Censorship](1_data_censorship.ipynb)
+- [2. Survival  with Constant Hazard Function](2_survival_with_constant_hazard_function.ipynb)
+- [3. Parametric Models Weibull Curve Estimation](3_parametric_models_weibull_curve_estimation.ipynb.ipynb)
 
 - [Course Deck](https://drive.google.com/file/d/15-i4Z6b6sPpRUrlE2KxXBTZCDl6y9h7F/view?usp=sharing)
 
