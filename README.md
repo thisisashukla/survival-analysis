@@ -28,9 +28,9 @@ Working knowledge of Python and Jupyter notebooks is essential for this course a
 ## Tutorial Outline
 
 - [0. Motivation](https://github.com/thisisashukla/survival-analysis/blob/master/0.%20Motivation.ipynb)
-- [1. Survival  with Constant Hazard Function](https://github.com/thisisashukla/survival-analysis/blob/master/1.%20Survival%20with%20Constant%20Hazard%20Function.ipynb)
-- [2. Non-Parametric Kaplan-Meier Model](https://github.com/thisisashukla/survival-analysis/blob/master/2.%20Non-Parametric%20Kaplan-Meier%20Model.ipynb)
-- [Parametric Models Weibull Curve Estimation](https://github.com/thisisashukla/survival-analysis/blob/master/3.%20Parametric%20Models%20Weibull%20Curve%20Estimation.ipynb)
+- [1. Data Censorship](https://github.com/thisisashukla/survival-analysis/blob/master/0.%20Motivation.ipynb)
+- [2. Survival  with Constant Hazard Function](https://github.com/thisisashukla/survival-analysis/blob/master/1.%20Survival%20with%20Constant%20Hazard%20Function.ipynb)
+- [3. Parametric Models Weibull Curve Estimation](https://github.com/thisisashukla/survival-analysis/blob/master/3.%20Parametric%20Models%20Weibull%20Curve%20Estimation.ipynb)
 
 - [Course Deck](https://github.com/thisisashukla/survival-analysis/blob/master/Survival%20Analytics.pptx)
 
